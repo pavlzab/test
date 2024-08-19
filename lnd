@@ -1,0 +1,22 @@
+<html>
+<body>
+    <div class="container text-center" style="margin-top:100px;">
+        <div class="row">
+            <div class="jumbotron text-center">
+                <h1>
+                    Sample Landing Page
+                </h1>
+            </div>
+        </div>
+        <div class="row lead">
+            This is a sample landing page. Click the button below to navigate to your offer.
+        </div>
+        <div class="row">
+            <script>
+                document.write('<a class="btn btn-lg btn-success" href="https://64neb.bemobtrcks.com/click">Click Here</a>')
+            </script>
+   </div>
+        
+    </div>
+</body>
+</html>
